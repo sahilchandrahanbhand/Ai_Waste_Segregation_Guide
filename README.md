@@ -104,6 +104,3 @@ $$C_{\text{offset}} = \sum_{i=1}^{n} \left( W_i \times (E_{\text{landfill}} - E_
 - Diverting organic wet waste prevents anaerobic methane ($CH_4$) generation ($GWP_{100} = 28$).
 - Recycling aluminum cans saves **95%** of the electrical energy required to smelt virgin bauxite ore.
 
----
-## 📜 License
-Released under the [MIT License](LICENSE). Suitable for academic presentation, open-source demonstration, and civic deployment.
